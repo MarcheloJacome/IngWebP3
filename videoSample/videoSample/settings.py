@@ -28,7 +28,7 @@ DEBUG = False
 
 DEBUG_PROPAGATE_EXCEPTIONS = True
 
-ALLOWED_HOSTS = ['127.0.0.1','videosampleprg3.herokuapp.com/']
+ALLOWED_HOSTS = ['*','videosampleprg3.herokuapp.com/']
 
 
 # Application definition

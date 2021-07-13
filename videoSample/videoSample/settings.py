@@ -25,7 +25,7 @@ SECRET_KEY = ')*myowkf%2d+&stk(q%r1$k^ska-%ty)aik!%bgi46cy_g7^i!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','videosampleprg3.herokuapp.com/']
 
 
 # Application definition
